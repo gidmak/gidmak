@@ -7,7 +7,7 @@ Data Scientist and Educationist
 I am a tech enthusiast who is deeply passionate about using modern technological tools to provide solutions to everyday problems humans face.
 
 * 🌍  I'm based in Kaduna, Nigeria
-* 🖥️  See my portfolio at [MyPortfolio](http://gidmak.netlify.app)
+* 🖥️  See my portfolio at [netlify](http://gidmak.netlify.app)
 * ✉️  You can contact me at [gideonmarkus@gmail.com](mailto:gideonmarkus@gmail.com)
 * 🧠  I'm learning Data Science at Arewa Data Science Fellowship Academy
 * 🤝  I'm open to collaborating on interesting projects about data science
